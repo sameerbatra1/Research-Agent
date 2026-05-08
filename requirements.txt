@@ -1,0 +1,8 @@
+pandas
+python-dotenv
+pypdf
+google-generativeai
+reportlab
+azure-ai-inference
+azure-core
+openai
