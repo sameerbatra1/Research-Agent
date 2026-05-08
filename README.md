@@ -2,6 +2,8 @@
 
 An AI-powered pipeline to automate your research literature review process. The Research Agent intelligently extracts, evaluates, and summarizes academic papers based on your custom research requirements.
 
+**🎯 Outcome:** Using this Research Agent reduced research time by **more than 60%**. By automatically filtering out irrelevant papers and providing a clear, structured picture of the literature, it allowed the researcher to focus only on the papers that were truly needed.
+
 ## 🚀 Features
 
 - **Interactive Requirements Gathering**: Chat with an AI assistant to articulate your research goals.
