@@ -145,7 +145,7 @@ def extract_abstracts_from_pdfs(folder_path: str, model_name: str = "gemini-2.5-
 
 
 if __name__ == "__main__":
-    folder = r"F:\\Python\\SAIM\\Research Assistant\\papers\\Skill Extraction Tool" 
+    folder = r"F:\\Python\\SAIM\\Research Assistant\\papers\\Skills Over Time" 
     try:
         dataframe = extract_abstracts_from_pdfs(
             folder_path=folder,
